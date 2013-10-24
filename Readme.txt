@@ -1,7 +1,7 @@
 * COURSE ARRANGEMENT
 
     by Anderain(anderain.develop@gmail.com)
-    open source with MPLv2(https://www.mozilla.org/MPL/2.0/)
+    open source with MPL 2.0(https://www.mozilla.org/MPL/2.0/)
 
 * HOW TO USE
 
